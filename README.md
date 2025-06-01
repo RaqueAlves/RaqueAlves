@@ -1,6 +1,6 @@
 # Raquel Alves Pinto
 
-Estudante de CiÊncias da Computação na Universidade Federal de Santa Catarina (UFSC)
+Estudante de Ciências da Computação na Universidade Federal de Santa Catarina (UFSC)
 
 ---
 ### Linguagens e Tecnologias
