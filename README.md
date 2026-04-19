@@ -1,6 +1,7 @@
 # Raquel Alves Pinto
 
 Estudante de Ciências da Computação na Universidade Federal de Santa Catarina (UFSC)
+Quality Assurance Intern
 
 ---
 ### Linguagens e Tecnologias
